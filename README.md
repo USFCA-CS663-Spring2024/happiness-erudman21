@@ -7,3 +7,5 @@ This repository contains two (2) files:
 * Jupyter notebook is a skeleton for your implementation.
 
 Find assignment details on Canvas.
+
+# Answers to the questions are in the question headers and then the justification/calculations are below the question.
